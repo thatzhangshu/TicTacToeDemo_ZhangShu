@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\assets\\scripts\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\assets\\scripts\\bgmaudiocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bgmaudiocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\assets\\scripts\\matchsizewithtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490A9CD-FC7E-6A75-BF89-443C47FB26C5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\matchsizewithtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\GameConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameConfig.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:11:11.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BGMAudioControl.cs",
+              "DocumentMoniker": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\BGMAudioControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BGMAudioControl.cs",
+              "ToolTip": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\BGMAudioControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BGMAudioControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:56:05.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchSizeWithTarget.cs",
+              "DocumentMoniker": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\MatchSizeWithTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MatchSizeWithTarget.cs",
+              "ToolTip": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\MatchSizeWithTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MatchSizeWithTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:38:04.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\73591\\TicTacToeDemo_ZhangShu\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:37:47.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
